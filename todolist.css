@@ -94,7 +94,7 @@ body {
   }
   
   /* Style the input */
-  input {
+  #myInput {
     border: none;
     width: 75%;
     padding: 10px;
